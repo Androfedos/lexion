@@ -1,0 +1,540 @@
+c:/Users/PRO-GubanovAN/Dropbox/Прочее/Python/lexion/corpus\queries.txt
+кюя Файл запросов. Пример кузбыррбан
+
+кюя
+Слово: кюя, score:1.0, len(lexemms):1, methods_stack:UnknAnalyzer(), methods_num:1
+Файл
+Слово: файл, score:0.5, len(lexemms):2, methods_stack:DictionaryAnalyzer(), methods_num:1
+запросов
+Слово: запрос, score:1.0, len(lexemms):1, methods_stack:DictionaryAnalyzer(), methods_num:1
+Пример
+Слово: пример, score:0.65625, len(lexemms):3, methods_stack:DictionaryAnalyzer(), methods_num:1
+кузбыррбан
+Слово: кузбыррбан, score:0.5, len(lexemms):2, methods_stack:FakeDictionary(), methods_num:2
+высшаго выпить по собачке #720а
+
+высшаго
+Слово: высшаго, score:0.15000000000000008, len(lexemms):19, methods_stack:DictionaryAnalyzer(), methods_num:2
+выпить
+Слово: выпить, score:1.0, len(lexemms):1, methods_stack:DictionaryAnalyzer(), methods_num:1
+по
+Слово: по, score:0.998387, len(lexemms):19, methods_stack:DictionaryAnalyzer(), methods_num:1
+собачке
+Слово: собачка, score:0.25, len(lexemms):4, methods_stack:DictionaryAnalyzer(), methods_num:1
+720а
+Слово: 720, score:0.8059671605927112, len(lexemms):8, methods_stack:FakeDictionary(), methods_num:2
+опрокинуть по собачке #720б
+
+опрокинуть
+Слово: опрокинуть, score:1.0, len(lexemms):1, methods_stack:DictionaryAnalyzer(), methods_num:1
+по
+Слово: по, score:0.998387, len(lexemms):19, methods_stack:DictionaryAnalyzer(), methods_num:1
+собачке
+Слово: собачка, score:0.25, len(lexemms):4, methods_stack:DictionaryAnalyzer(), methods_num:1
+720б
+Слово: 720б, score:0.4235294117647059, len(lexemms):29, methods_stack:FakeDictionary(), methods_num:2
+выпить по калишке #721
+
+выпить
+Слово: выпить, score:1.0, len(lexemms):1, methods_stack:DictionaryAnalyzer(), methods_num:1
+по
+Слово: по, score:0.998387, len(lexemms):19, methods_stack:DictionaryAnalyzer(), methods_num:1
+калишке
+Слово: калишек, score:0.5172413793103448, len(lexemms):3, methods_stack:DictionaryAnalyzer(), methods_num:2
+721
+Слово: 721, score:1.0, len(lexemms):1, methods_stack:NumberAnalyzer(score=0.9), methods_num:1
+c:/Users/PRO-GubanovAN/Dropbox/Прочее/Python/lexion/corpus\queries_big.txt
+#Файл запросов. Пример
+
+Файл
+Слово: файл, score:0.5, len(lexemms):2, methods_stack:DictionaryAnalyzer(), methods_num:1
+запросов
+Слово: запрос, score:1.0, len(lexemms):1, methods_stack:DictionaryAnalyzer(), methods_num:1
+Пример
+Слово: пример, score:0.65625, len(lexemms):3, methods_stack:DictionaryAnalyzer(), methods_num:1
+#высшаго полета #4 ; NORM : "высший полет" ;  skip:"1,2-4"
+
+высшаго
+Слово: высшаго, score:0.15000000000000008, len(lexemms):19, methods_stack:DictionaryAnalyzer(), methods_num:2
+полета
+Слово: полёт, score:1.0, len(lexemms):1, methods_stack:DictionaryAnalyzer(), methods_num:1
+4
+Слово: 4, score:1.0, len(lexemms):1, methods_stack:NumberAnalyzer(score=0.9), methods_num:1
+NORM
+Слово: norm, score:1.0, len(lexemms):1, methods_stack:LatinAnalyzer(score=0.9), methods_num:1
+высший
+Слово: высокий, score:0.5, len(lexemms):2, methods_stack:DictionaryAnalyzer(), methods_num:1
+полет
+Слово: полёт, score:0.6, len(lexemms):3, methods_stack:DictionaryAnalyzer(), methods_num:1
+skip
+Слово: skip, score:1.0, len(lexemms):1, methods_stack:LatinAnalyzer(score=0.9), methods_num:1
+1
+Слово: 1, score:1.0, len(lexemms):1, methods_stack:NumberAnalyzer(score=0.9), methods_num:1
+2
+Слово: 2, score:1.0, len(lexemms):1, methods_stack:NumberAnalyzer(score=0.9), methods_num:1
+4
+Слово: 4, score:1.0, len(lexemms):1, methods_stack:NumberAnalyzer(score=0.9), methods_num:1
+#высшаго полета - запрос в исходной форме. После # идет обязательный номер в словаре, 
+
+высшаго
+Слово: высшаго, score:0.15000000000000008, len(lexemms):19, methods_stack:DictionaryAnalyzer(), methods_num:2
+полета
+Слово: полёт, score:1.0, len(lexemms):1, methods_stack:DictionaryAnalyzer(), methods_num:1
+запрос
+Слово: запрос, score:0.636363, len(lexemms):2, methods_stack:DictionaryAnalyzer(), methods_num:1
+в
+Слово: в, score:0.999327, len(lexemms):13, methods_stack:DictionaryAnalyzer(), methods_num:1
+исходной
+Слово: исходный, score:0.583333, len(lexemms):4, methods_stack:DictionaryAnalyzer(), methods_num:1
+форме
+Слово: форма, score:0.861538, len(lexemms):2, methods_stack:DictionaryAnalyzer(), methods_num:1
+После
+Слово: после, score:0.987335, len(lexemms):3, methods_stack:DictionaryAnalyzer(), methods_num:1
+идет
+Слово: идти, score:1.0, len(lexemms):1, methods_stack:DictionaryAnalyzer(), methods_num:1
+обязательный
+Слово: обязательный, score:0.5, len(lexemms):2, methods_stack:DictionaryAnalyzer(), methods_num:1
+номер
+Слово: номер, score:0.577777, len(lexemms):2, methods_stack:DictionaryAnalyzer(), methods_num:1
+в
+Слово: в, score:0.999327, len(lexemms):13, methods_stack:DictionaryAnalyzer(), methods_num:1
+словаре
+Слово: словарь, score:1.0, len(lexemms):1, methods_stack:DictionaryAnalyzer(), methods_num:1
+#затем после ; идут опциональные параметры, разделенные ;. 
+
+затем
+Слово: затем, score:1.0, len(lexemms):1, methods_stack:DictionaryAnalyzer(), methods_num:1
+после
+Слово: после, score:0.987335, len(lexemms):3, methods_stack:DictionaryAnalyzer(), methods_num:1
+идут
+Слово: идти, score:1.0, len(lexemms):1, methods_stack:DictionaryAnalyzer(), methods_num:1
+опциональные
+Слово: опциональный, score:0.5, len(lexemms):2, methods_stack:DictionaryAnalyzer(), methods_num:1
+параметры
+Слово: параметр, score:0.622222, len(lexemms):2, methods_stack:DictionaryAnalyzer(), methods_num:1
+разделенные
+Слово: разделить, score:0.5, len(lexemms):2, methods_stack:DictionaryAnalyzer(), methods_num:1
+#NORM : "высший полет"  - нормализованный запрос, если автоматический нормализатор не справляется с этим запросом
+
+NORM
+Слово: norm, score:1.0, len(lexemms):1, methods_stack:LatinAnalyzer(score=0.9), methods_num:1
+высший
+Слово: высокий, score:0.5, len(lexemms):2, methods_stack:DictionaryAnalyzer(), methods_num:1
+полет
+Слово: полёт, score:0.6, len(lexemms):3, methods_stack:DictionaryAnalyzer(), methods_num:1
+нормализованный
+Слово: нормализовать, score:0.25, len(lexemms):4, methods_stack:DictionaryAnalyzer(), methods_num:1
+запрос
+Слово: запрос, score:0.636363, len(lexemms):2, methods_stack:DictionaryAnalyzer(), methods_num:1
+если
+Слово: если, score:1.0, len(lexemms):1, methods_stack:DictionaryAnalyzer(), methods_num:1
+автоматический
+Слово: автоматический, score:0.5, len(lexemms):2, methods_stack:DictionaryAnalyzer(), methods_num:1
+нормализатор
+Слово: нормализатор, score:0.5, len(lexemms):2, methods_stack:DictionaryAnalyzer(), methods_num:1
+не
+Слово: не, score:1.0, len(lexemms):1, methods_stack:DictionaryAnalyzer(), methods_num:1
+справляется
+Слово: справляться, score:1.0, len(lexemms):1, methods_stack:DictionaryAnalyzer(), methods_num:1
+с
+Слово: с, score:0.997625, len(lexemms):26, methods_stack:DictionaryAnalyzer(), methods_num:1
+этим
+Слово: это, score:0.528017, len(lexemms):4, methods_stack:DictionaryAnalyzer(), methods_num:1
+запросом
+Слово: запрос, score:1.0, len(lexemms):1, methods_stack:DictionaryAnalyzer(), methods_num:1
+#SKIP : "1,2-4, 10" - пропустить сниппеты с номерами 1, со 2 по 4, 10. Номер сниппета выводится в скрытом теге html, его видно в исходнике
+
+SKIP
+Слово: skip, score:1.0, len(lexemms):1, methods_stack:LatinAnalyzer(score=0.9), methods_num:1
+1
+Слово: 1, score:1.0, len(lexemms):1, methods_stack:NumberAnalyzer(score=0.9), methods_num:1
+2
+Слово: 2, score:1.0, len(lexemms):1, methods_stack:NumberAnalyzer(score=0.9), methods_num:1
+4
+Слово: 4, score:1.0, len(lexemms):1, methods_stack:NumberAnalyzer(score=0.9), methods_num:1
+10
+Слово: 10, score:1.0, len(lexemms):1, methods_stack:NumberAnalyzer(score=0.9), methods_num:1
+пропустить
+Слово: пропустить, score:1.0, len(lexemms):1, methods_stack:DictionaryAnalyzer(), methods_num:1
+сниппеты
+Слово: сниппеть, score:0.5135135135135135, len(lexemms):4, methods_stack:DictionaryAnalyzer(), methods_num:2
+с
+Слово: с, score:0.997625, len(lexemms):26, methods_stack:DictionaryAnalyzer(), methods_num:1
+номерами
+Слово: номер, score:1.0, len(lexemms):1, methods_stack:DictionaryAnalyzer(), methods_num:1
+1
+Слово: 1, score:1.0, len(lexemms):1, methods_stack:NumberAnalyzer(score=0.9), methods_num:1
+со
+Слово: с, score:0.992592, len(lexemms):13, methods_stack:DictionaryAnalyzer(), methods_num:1
+2
+Слово: 2, score:1.0, len(lexemms):1, methods_stack:NumberAnalyzer(score=0.9), methods_num:1
+по
+Слово: по, score:0.998387, len(lexemms):19, methods_stack:DictionaryAnalyzer(), methods_num:1
+4
+Слово: 4, score:1.0, len(lexemms):1, methods_stack:NumberAnalyzer(score=0.9), methods_num:1
+10
+Слово: 10, score:1.0, len(lexemms):1, methods_stack:NumberAnalyzer(score=0.9), methods_num:1
+Номер
+Слово: номер, score:0.577777, len(lexemms):2, methods_stack:DictionaryAnalyzer(), methods_num:1
+сниппета
+Слово: сниппеть, score:0.5094339622641509, len(lexemms):7, methods_stack:DictionaryAnalyzer(), methods_num:2
+выводится
+Слово: выводиться, score:1.0, len(lexemms):1, methods_stack:DictionaryAnalyzer(), methods_num:1
+в
+Слово: в, score:0.999327, len(lexemms):13, methods_stack:DictionaryAnalyzer(), methods_num:1
+скрытом
+Слово: скрыть, score:0.4, len(lexemms):4, methods_stack:DictionaryAnalyzer(), methods_num:1
+теге
+Слово: тег, score:1.0, len(lexemms):1, methods_stack:DictionaryAnalyzer(), methods_num:1
+html
+Слово: html, score:1.0, len(lexemms):1, methods_stack:LatinAnalyzer(score=0.9), methods_num:1
+его
+Слово: он, score:0.23913, len(lexemms):28, methods_stack:DictionaryAnalyzer(), methods_num:1
+видно
+Слово: видно, score:0.3333333333333333, len(lexemms):3, methods_stack:DictionaryAnalyzer(), methods_num:1
+в
+Слово: в, score:0.999327, len(lexemms):13, methods_stack:DictionaryAnalyzer(), methods_num:1
+исходнике
+Слово: исходник, score:1.0, len(lexemms):1, methods_stack:DictionaryAnalyzer(), methods_num:1
+выпить по собачке #720а
+
+выпить
+Слово: выпить, score:1.0, len(lexemms):1, methods_stack:DictionaryAnalyzer(), methods_num:1
+по
+Слово: по, score:0.998387, len(lexemms):19, methods_stack:DictionaryAnalyzer(), methods_num:1
+собачке
+Слово: собачка, score:0.25, len(lexemms):4, methods_stack:DictionaryAnalyzer(), methods_num:1
+720а
+Слово: 720, score:0.8059671605927112, len(lexemms):8, methods_stack:FakeDictionary(), methods_num:2
+опрокинуть по собачке #720б
+
+опрокинуть
+Слово: опрокинуть, score:1.0, len(lexemms):1, methods_stack:DictionaryAnalyzer(), methods_num:1
+по
+Слово: по, score:0.998387, len(lexemms):19, methods_stack:DictionaryAnalyzer(), methods_num:1
+собачке
+Слово: собачка, score:0.25, len(lexemms):4, methods_stack:DictionaryAnalyzer(), methods_num:1
+720б
+Слово: 720б, score:0.4235294117647059, len(lexemms):29, methods_stack:FakeDictionary(), methods_num:2
+выпить по калишке #721
+
+выпить
+Слово: выпить, score:1.0, len(lexemms):1, methods_stack:DictionaryAnalyzer(), methods_num:1
+по
+Слово: по, score:0.998387, len(lexemms):19, methods_stack:DictionaryAnalyzer(), methods_num:1
+калишке
+Слово: калишек, score:0.5172413793103448, len(lexemms):3, methods_stack:DictionaryAnalyzer(), methods_num:2
+721
+Слово: 721, score:1.0, len(lexemms):1, methods_stack:NumberAnalyzer(score=0.9), methods_num:1
+выплыть #722
+
+выплыть
+Слово: выплыть, score:1.0, len(lexemms):1, methods_stack:DictionaryAnalyzer(), methods_num:1
+722
+Слово: 722, score:1.0, len(lexemms):1, methods_stack:NumberAnalyzer(score=0.9), methods_num:1
+выпутать #723
+
+выпутать
+Слово: выпутать, score:1.0, len(lexemms):1, methods_stack:DictionaryAnalyzer(), methods_num:1
+723
+Слово: 723, score:1.0, len(lexemms):1, methods_stack:NumberAnalyzer(score=0.9), methods_num:1
+высасывать #725
+
+высасывать
+Слово: высасывать, score:1.0, len(lexemms):1, methods_stack:DictionaryAnalyzer(), methods_num:1
+725
+Слово: 725, score:1.0, len(lexemms):1, methods_stack:NumberAnalyzer(score=0.9), methods_num:1
+высидела курица утят, да и плачется с ними #726
+
+высидела
+Слово: высидеть, score:1.0, len(lexemms):1, methods_stack:DictionaryAnalyzer(), methods_num:1
+курица
+Слово: курица, score:1.0, len(lexemms):1, methods_stack:DictionaryAnalyzer(), methods_num:1
+утят
+Слово: утёнок, score:0.5, len(lexemms):2, methods_stack:DictionaryAnalyzer(), methods_num:1
+да
+Слово: да, score:0.58173, len(lexemms):3, methods_stack:DictionaryAnalyzer(), methods_num:1
+и
+Слово: и, score:0.998263, len(lexemms):15, methods_stack:DictionaryAnalyzer(), methods_num:1
+плачется
+Слово: плакаться, score:1.0, len(lexemms):1, methods_stack:DictionaryAnalyzer(), methods_num:1
+с
+Слово: с, score:0.997625, len(lexemms):26, methods_stack:DictionaryAnalyzer(), methods_num:1
+ними
+Слово: они, score:1.0, len(lexemms):1, methods_stack:DictionaryAnalyzer(), methods_num:1
+726
+Слово: 726, score:1.0, len(lexemms):1, methods_stack:NumberAnalyzer(score=0.9), methods_num:1
+выскочить в люди #727
+
+выскочить
+Слово: выскочить, score:1.0, len(lexemms):1, methods_stack:DictionaryAnalyzer(), methods_num:1
+в
+Слово: в, score:0.999327, len(lexemms):13, methods_stack:DictionaryAnalyzer(), methods_num:1
+люди
+Слово: человек, score:1.0, len(lexemms):1, methods_stack:DictionaryAnalyzer(), methods_num:1
+727
+Слово: 727, score:1.0, len(lexemms):1, methods_stack:NumberAnalyzer(score=0.9), methods_num:1
+выскочка #728
+
+выскочка
+Слово: выскочка, score:1.0, len(lexemms):1, methods_stack:DictionaryAnalyzer(), methods_num:1
+728
+Слово: 728, score:1.0, len(lexemms):1, methods_stack:NumberAnalyzer(score=0.9), methods_num:1
+высоко летаешь, да где-то сядешь? #729а
+
+высоко
+Слово: высоко, score:0.928571, len(lexemms):2, methods_stack:DictionaryAnalyzer(), methods_num:1
+летаешь
+Слово: летать, score:1.0, len(lexemms):1, methods_stack:DictionaryAnalyzer(), methods_num:1
+да
+Слово: да, score:0.58173, len(lexemms):3, methods_stack:DictionaryAnalyzer(), methods_num:1
+где
+Слово: где, score:0.636363, len(lexemms):2, methods_stack:DictionaryAnalyzer(), methods_num:1
+то
+Слово: то, score:0.813852, len(lexemms):4, methods_stack:DictionaryAnalyzer(), methods_num:1
+сядешь
+Слово: сесть, score:1.0, len(lexemms):1, methods_stack:DictionaryAnalyzer(), methods_num:1
+729а
+Слово: 729, score:0.8059671605927112, len(lexemms):8, methods_stack:FakeDictionary(), methods_num:2
+летала пташка высоко, а села недалеко #729б
+
+летала
+Слово: летать, score:1.0, len(lexemms):1, methods_stack:DictionaryAnalyzer(), methods_num:1
+пташка
+Слово: пташка, score:1.0, len(lexemms):1, methods_stack:DictionaryAnalyzer(), methods_num:1
+высоко
+Слово: высоко, score:0.928571, len(lexemms):2, methods_stack:DictionaryAnalyzer(), methods_num:1
+а
+Слово: а, score:0.997155, len(lexemms):3, methods_stack:DictionaryAnalyzer(), methods_num:1
+села
+Слово: село, score:0.575, len(lexemms):4, methods_stack:DictionaryAnalyzer(), methods_num:1
+недалеко
+Слово: недалеко, score:0.846153, len(lexemms):3, methods_stack:DictionaryAnalyzer(), methods_num:1
+729б
+Слово: 729б, score:0.4235294117647059, len(lexemms):29, methods_stack:FakeDictionary(), methods_num:2
+высоко поднял, да низко опустил #730
+
+высоко
+Слово: высоко, score:0.928571, len(lexemms):2, methods_stack:DictionaryAnalyzer(), methods_num:1
+поднял
+Слово: поднять, score:1.0, len(lexemms):1, methods_stack:DictionaryAnalyzer(), methods_num:1
+да
+Слово: да, score:0.58173, len(lexemms):3, methods_stack:DictionaryAnalyzer(), methods_num:1
+низко
+Слово: низко, score:0.75, len(lexemms):2, methods_stack:DictionaryAnalyzer(), methods_num:1
+опустил
+Слово: опустить, score:1.0, len(lexemms):1, methods_stack:DictionaryAnalyzer(), methods_num:1
+730
+Слово: 730, score:1.0, len(lexemms):1, methods_stack:NumberAnalyzer(score=0.9), methods_num:1
+вспырь #731
+
+вспырь
+Слово: вспырить, score:0.42857142857142855, len(lexemms):3, methods_stack:FakeDictionary(), methods_num:2
+731
+Слово: 731, score:1.0, len(lexemms):1, methods_stack:NumberAnalyzer(score=0.9), methods_num:1
+высуня язык #732
+
+высуня
+Слово: высунь, score:0.6666666666666666, len(lexemms):2, methods_stack:FakeDictionary(), methods_num:2
+язык
+Слово: язык, score:0.546666, len(lexemms):3, methods_stack:DictionaryAnalyzer(), methods_num:1
+732
+Слово: 732, score:1.0, len(lexemms):1, methods_stack:NumberAnalyzer(score=0.9), methods_num:1
+высшаго полета #733 ; NORM: "высший полет"
+
+высшаго
+Слово: высшаго, score:0.15000000000000008, len(lexemms):19, methods_stack:DictionaryAnalyzer(), methods_num:2
+полета
+Слово: полёт, score:1.0, len(lexemms):1, methods_stack:DictionaryAnalyzer(), methods_num:1
+733
+Слово: 733, score:1.0, len(lexemms):1, methods_stack:NumberAnalyzer(score=0.9), methods_num:1
+NORM
+Слово: norm, score:1.0, len(lexemms):1, methods_stack:LatinAnalyzer(score=0.9), methods_num:1
+высший
+Слово: высокий, score:0.5, len(lexemms):2, methods_stack:DictionaryAnalyzer(), methods_num:1
+полет
+Слово: полёт, score:0.6, len(lexemms):3, methods_stack:DictionaryAnalyzer(), methods_num:1
+высший орден - лишняя подушка на похоронах #734
+
+высший
+Слово: высокий, score:0.5, len(lexemms):2, methods_stack:DictionaryAnalyzer(), methods_num:1
+орден
+Слово: орден, score:0.625, len(lexemms):2, methods_stack:DictionaryAnalyzer(), methods_num:1
+лишняя
+Слово: лишний, score:1.0, len(lexemms):1, methods_stack:DictionaryAnalyzer(), methods_num:1
+подушка
+Слово: подушка, score:1.0, len(lexemms):1, methods_stack:DictionaryAnalyzer(), methods_num:1
+на
+Слово: на, score:0.998961, len(lexemms):3, methods_stack:DictionaryAnalyzer(), methods_num:1
+похоронах
+Слово: похороны, score:1.0, len(lexemms):1, methods_stack:DictionaryAnalyzer(), methods_num:1
+734
+Слово: 734, score:1.0, len(lexemms):1, methods_stack:NumberAnalyzer(score=0.9), methods_num:1
+высший свет #735а ; NORM: "высший свет"
+
+высший
+Слово: высокий, score:0.5, len(lexemms):2, methods_stack:DictionaryAnalyzer(), methods_num:1
+свет
+Слово: свет, score:0.51923, len(lexemms):5, methods_stack:DictionaryAnalyzer(), methods_num:1
+735а
+Слово: 735, score:0.8059671605927112, len(lexemms):8, methods_stack:FakeDictionary(), methods_num:2
+NORM
+Слово: norm, score:1.0, len(lexemms):1, methods_stack:LatinAnalyzer(score=0.9), methods_num:1
+высший
+Слово: высокий, score:0.5, len(lexemms):2, methods_stack:DictionaryAnalyzer(), methods_num:1
+свет
+Слово: свет, score:0.51923, len(lexemms):5, methods_stack:DictionaryAnalyzer(), methods_num:1
+большой свет #735б
+
+большой
+Слово: большой, score:0.327433, len(lexemms):6, methods_stack:DictionaryAnalyzer(), methods_num:1
+свет
+Слово: свет, score:0.51923, len(lexemms):5, methods_stack:DictionaryAnalyzer(), methods_num:1
+735б
+Слово: 735б, score:0.4235294117647059, len(lexemms):29, methods_stack:FakeDictionary(), methods_num:2
+высыхать #736а
+
+высыхать
+Слово: высыхать, score:1.0, len(lexemms):1, methods_stack:DictionaryAnalyzer(), methods_num:1
+736а
+Слово: 736, score:0.8059671605927112, len(lexemms):8, methods_stack:FakeDictionary(), methods_num:2
+высохнуть #736б
+
+высохнуть
+Слово: высохнуть, score:1.0, len(lexemms):1, methods_stack:DictionaryAnalyzer(), methods_num:1
+736б
+Слово: 736б, score:0.4235294117647059, len(lexemms):29, methods_stack:FakeDictionary(), methods_num:2
+вытанцовать #737а ; NORM: "вытанцевать"
+
+вытанцовать
+Слово: вытанцовать, score:0.49868938401048496, len(lexemms):6, methods_stack:FakeDictionary(), methods_num:2
+737а
+Слово: 737, score:0.8059671605927112, len(lexemms):8, methods_stack:FakeDictionary(), methods_num:2
+NORM
+Слово: norm, score:1.0, len(lexemms):1, methods_stack:LatinAnalyzer(score=0.9), methods_num:1
+вытанцевать
+Слово: вытанцевать, score:1.0, len(lexemms):1, methods_stack:DictionaryAnalyzer(), methods_num:1
+вытанцовывать #737б
+
+вытанцовывать
+Слово: вытанцовывать, score:1.0, len(lexemms):1, methods_stack:DictionaryAnalyzer(), methods_num:1
+737б
+Слово: 737б, score:0.4235294117647059, len(lexemms):29, methods_stack:FakeDictionary(), methods_num:2
+вытянуть #738
+
+вытянуть
+Слово: вытянуть, score:1.0, len(lexemms):1, methods_stack:DictionaryAnalyzer(), methods_num:1
+738
+Слово: 738, score:1.0, len(lexemms):1, methods_stack:NumberAnalyzer(score=0.9), methods_num:1
+вытянуться в нитку #739
+
+вытянуться
+Слово: вытянуться, score:1.0, len(lexemms):1, methods_stack:DictionaryAnalyzer(), methods_num:1
+в
+Слово: в, score:0.999327, len(lexemms):13, methods_stack:DictionaryAnalyzer(), methods_num:1
+нитку
+Слово: нитка, score:1.0, len(lexemms):1, methods_stack:DictionaryAnalyzer(), methods_num:1
+739
+Слово: 739, score:1.0, len(lexemms):1, methods_stack:NumberAnalyzer(score=0.9), methods_num:1
+выуживать #740
+
+выуживать
+Слово: выуживать, score:1.0, len(lexemms):1, methods_stack:DictionaryAnalyzer(), methods_num:1
+740
+Слово: 740, score:1.0, len(lexemms):1, methods_stack:NumberAnalyzer(score=0.9), methods_num:1
+выходить из границ #741
+
+выходить
+Слово: выходить, score:0.666666, len(lexemms):2, methods_stack:DictionaryAnalyzer(), methods_num:1
+из
+Слово: из, score:0.999673, len(lexemms):3, methods_stack:DictionaryAnalyzer(), methods_num:1
+границ
+Слово: граница, score:1.0, len(lexemms):1, methods_stack:DictionaryAnalyzer(), methods_num:1
+741
+Слово: 741, score:1.0, len(lexemms):1, methods_stack:NumberAnalyzer(score=0.9), methods_num:1
+вы храбры на словах, попробуйте на делах #742
+
+вы
+Слово: вы, score:1.0, len(lexemms):1, methods_stack:DictionaryAnalyzer(), methods_num:1
+храбры
+Слово: храбрый, score:1.0, len(lexemms):1, methods_stack:DictionaryAnalyzer(), methods_num:1
+на
+Слово: на, score:0.998961, len(lexemms):3, methods_stack:DictionaryAnalyzer(), methods_num:1
+словах
+Слово: слово, score:1.0, len(lexemms):1, methods_stack:DictionaryAnalyzer(), methods_num:1
+попробуйте
+Слово: попробовать, score:1.0, len(lexemms):1, methods_stack:DictionaryAnalyzer(), methods_num:1
+на
+Слово: на, score:0.998961, len(lexemms):3, methods_stack:DictionaryAnalyzer(), methods_num:1
+делах
+Слово: дело, score:1.0, len(lexemms):1, methods_stack:DictionaryAnalyzer(), methods_num:1
+742
+Слово: 742, score:1.0, len(lexemms):1, methods_stack:NumberAnalyzer(score=0.9), methods_num:1
+выцарапать глаза #743
+
+выцарапать
+Слово: выцарапать, score:1.0, len(lexemms):1, methods_stack:DictionaryAnalyzer(), methods_num:1
+глаза
+Слово: глаз, score:0.519801, len(lexemms):3, methods_stack:DictionaryAnalyzer(), methods_num:1
+743
+Слово: 743, score:1.0, len(lexemms):1, methods_stack:NumberAnalyzer(score=0.9), methods_num:1
+выше быть #744а
+
+выше
+Слово: выше, score:0.285714, len(lexemms):5, methods_stack:DictionaryAnalyzer(), methods_num:1
+быть
+Слово: быть, score:1.0, len(lexemms):1, methods_stack:DictionaryAnalyzer(), methods_num:1
+744а
+Слово: 744, score:0.8059671605927112, len(lexemms):8, methods_stack:FakeDictionary(), methods_num:2
+выше лба уши не растут #744б
+
+выше
+Слово: выше, score:0.285714, len(lexemms):5, methods_stack:DictionaryAnalyzer(), methods_num:1
+лба
+Слово: лоб, score:1.0, len(lexemms):1, methods_stack:DictionaryAnalyzer(), methods_num:1
+уши
+Слово: ухо, score:0.6, len(lexemms):2, methods_stack:DictionaryAnalyzer(), methods_num:1
+не
+Слово: не, score:1.0, len(lexemms):1, methods_stack:DictionaryAnalyzer(), methods_num:1
+растут
+Слово: расти, score:1.0, len(lexemms):1, methods_stack:DictionaryAnalyzer(), methods_num:1
+744б
+Слово: 744б, score:0.4235294117647059, len(lexemms):29, methods_stack:FakeDictionary(), methods_num:2
+выше леса стоячего #745
+
+выше
+Слово: выше, score:0.285714, len(lexemms):5, methods_stack:DictionaryAnalyzer(), methods_num:1
+леса
+Слово: лес, score:0.736842, len(lexemms):4, methods_stack:DictionaryAnalyzer(), methods_num:1
+стоячего
+Слово: стоячий, score:0.3333333333333333, len(lexemms):3, methods_stack:DictionaryAnalyzer(), methods_num:1
+745
+Слово: 745, score:1.0, len(lexemms):1, methods_stack:NumberAnalyzer(score=0.9), methods_num:1
+выше носу плюнешь — себя заплюнешь #746а 
+
+выше
+Слово: выше, score:0.285714, len(lexemms):5, methods_stack:DictionaryAnalyzer(), methods_num:1
+носу
+Слово: нос, score:0.636363, len(lexemms):2, methods_stack:DictionaryAnalyzer(), methods_num:1
+плюнешь
+Слово: плюнуть, score:1.0, len(lexemms):1, methods_stack:DictionaryAnalyzer(), methods_num:1
+себя
+Слово: себя, score:0.780701, len(lexemms):2, methods_stack:DictionaryAnalyzer(), methods_num:1
+заплюнешь
+Слово: заплюнуть, score:1.0, len(lexemms):1, methods_stack:DictionaryAnalyzer(), methods_num:2
+746а
+Слово: 746, score:0.8059671605927112, len(lexemms):8, methods_stack:FakeDictionary(), methods_num:2
+кверху плевать - свою бороду заплевать #746б
+
+кверху
+Слово: кверху, score:1.0, len(lexemms):1, methods_stack:DictionaryAnalyzer(), methods_num:1
+плевать
+Слово: плевать, score:1.0, len(lexemms):1, methods_stack:DictionaryAnalyzer(), methods_num:1
+свою
+Слово: свой, score:1.0, len(lexemms):1, methods_stack:DictionaryAnalyzer(), methods_num:1
+бороду
+Слово: борода, score:1.0, len(lexemms):1, methods_stack:DictionaryAnalyzer(), methods_num:1
+заплевать
+Слово: заплевать, score:1.0, len(lexemms):1, methods_stack:DictionaryAnalyzer(), methods_num:1
+746б
+Слово: 746б, score:0.4235294117647059, len(lexemms):29, methods_stack:FakeDictionary(), methods_num:2
